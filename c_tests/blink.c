@@ -7,8 +7,8 @@ int main (void)
 //  pinMode (0, OUTPUT) ; // wiringPi pin 0 = GPIO pin 17 
   for (;;)
   {
-    digitalWrite (pinNum, HIGH) ; delay (500) ;
-    digitalWrite (pinNum,  LOW) ; delay (500) ;
+    digitalWrite (pinNum, HIGH) ; delay (7.14) ;
+    digitalWrite (pinNum,  LOW) ; delay (7.14) ;
   }
   return 0 ;
 }

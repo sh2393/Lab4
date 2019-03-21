@@ -1,0 +1,2295 @@
+patching file Documentation/trace/events.txt
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file Documentation/trace/events.txt.rej
+patching file Documentation/trace/ftrace.txt
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file Documentation/trace/ftrace.txt.rej
+The next patch would create the file Documentation/trace/histogram.txt,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file arch/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/Kconfig.rej
+patching file arch/alpha/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/alpha/include/asm/spinlock_types.h.rej
+patching file arch/arm/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/arm/Kconfig.rej
+patching file arch/arm/include/asm/irq.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm/include/asm/irq.h.rej
+patching file arch/arm/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm/include/asm/spinlock_types.h.rej
+patching file arch/arm/include/asm/switch_to.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm/include/asm/switch_to.h.rej
+patching file arch/arm/include/asm/thread_info.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/include/asm/thread_info.h.rej
+patching file arch/arm/kernel/asm-offsets.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm/kernel/asm-offsets.c.rej
+patching file arch/arm/kernel/entry-armv.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm/kernel/entry-armv.S.rej
+patching file arch/arm/kernel/entry-common.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm/kernel/entry-common.S.rej
+patching file arch/arm/kernel/patch.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/arm/kernel/patch.c.rej
+patching file arch/arm/kernel/process.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm/kernel/process.c.rej
+patching file arch/arm/kernel/signal.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm/kernel/signal.c.rej
+patching file arch/arm/kernel/smp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm/kernel/smp.c.rej
+patching file arch/arm/kernel/unwind.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file arch/arm/kernel/unwind.c.rej
+patching file arch/arm/mach-exynos/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file arch/arm/mach-exynos/platsmp.c.rej
+patching file arch/arm/mach-hisi/platmcpm.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+8 out of 8 hunks ignored -- saving rejects to file arch/arm/mach-hisi/platmcpm.c.rej
+patching file arch/arm/mach-omap2/omap-smp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/mach-omap2/omap-smp.c.rej
+patching file arch/arm/mach-prima2/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/mach-prima2/platsmp.c.rej
+patching file arch/arm/mach-qcom/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/mach-qcom/platsmp.c.rej
+patching file arch/arm/mach-spear/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/mach-spear/platsmp.c.rej
+patching file arch/arm/mach-sti/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/mach-sti/platsmp.c.rej
+patching file arch/arm/mm/fault.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm/mm/fault.c.rej
+patching file arch/arm/mm/highmem.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file arch/arm/mm/highmem.c.rej
+patching file arch/arm/plat-versatile/platsmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm/plat-versatile/platsmp.c.rej
+patching file arch/arm64/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm64/Kconfig.rej
+patching file arch/arm64/crypto/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file arch/arm64/crypto/Kconfig.rej
+patching file arch/arm64/crypto/crc32-ce-glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm64/crypto/crc32-ce-glue.c.rej
+patching file arch/arm64/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm64/include/asm/spinlock_types.h.rej
+patching file arch/arm64/include/asm/thread_info.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/arm64/include/asm/thread_info.h.rej
+patching file arch/arm64/kernel/asm-offsets.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm64/kernel/asm-offsets.c.rej
+patching file arch/arm64/kernel/entry.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/arm64/kernel/entry.S.rej
+patching file arch/arm64/kernel/signal.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/arm64/kernel/signal.c.rej
+patching file arch/blackfin/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/blackfin/include/asm/spinlock_types.h.rej
+patching file arch/hexagon/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/hexagon/include/asm/spinlock_types.h.rej
+patching file arch/ia64/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/ia64/include/asm/spinlock_types.h.rej
+patching file arch/ia64/kernel/mca.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/ia64/kernel/mca.c.rej
+patching file arch/m32r/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/m32r/include/asm/spinlock_types.h.rej
+patching file arch/metag/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/metag/include/asm/spinlock_types.h.rej
+patching file arch/mips/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/mips/Kconfig.rej
+patching file arch/mips/include/asm/switch_to.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/mips/include/asm/switch_to.h.rej
+patching file arch/mips/kernel/mips-mt-fpaff.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/mips/kernel/mips-mt-fpaff.c.rej
+patching file arch/mips/kernel/traps.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/mips/kernel/traps.c.rej
+patching file arch/mn10300/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/mn10300/include/asm/spinlock_types.h.rej
+patching file arch/powerpc/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/powerpc/Kconfig.rej
+patching file arch/powerpc/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/powerpc/include/asm/spinlock_types.h.rej
+patching file arch/powerpc/include/asm/thread_info.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/powerpc/include/asm/thread_info.h.rej
+patching file arch/powerpc/kernel/asm-offsets.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/powerpc/kernel/asm-offsets.c.rej
+patching file arch/powerpc/kernel/entry_32.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/powerpc/kernel/entry_32.S.rej
+patching file arch/powerpc/kernel/entry_64.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/powerpc/kernel/entry_64.S.rej
+patching file arch/powerpc/kernel/irq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/powerpc/kernel/irq.c.rej
+patching file arch/powerpc/kernel/misc_32.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/powerpc/kernel/misc_32.S.rej
+patching file arch/powerpc/kernel/misc_64.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/powerpc/kernel/misc_64.S.rej
+patching file arch/powerpc/kvm/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/powerpc/kvm/Kconfig.rej
+patching file arch/powerpc/platforms/cell/spufs/sched.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/powerpc/platforms/cell/spufs/sched.c.rej
+patching file arch/powerpc/platforms/ps3/device-init.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/powerpc/platforms/ps3/device-init.c.rej
+patching file arch/s390/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/s390/include/asm/spinlock_types.h.rej
+patching file arch/sh/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/sh/include/asm/spinlock_types.h.rej
+patching file arch/sh/kernel/irq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/sh/kernel/irq.c.rej
+patching file arch/sparc/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/sparc/Kconfig.rej
+patching file arch/sparc/kernel/irq_64.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/sparc/kernel/irq_64.c.rej
+patching file arch/tile/include/asm/setup.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/tile/include/asm/setup.h.rej
+patching file arch/tile/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/tile/include/asm/spinlock_types.h.rej
+patching file arch/tile/kernel/hardwall.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/tile/kernel/hardwall.c.rej
+patching file arch/x86/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/Kconfig.rej
+patching file arch/x86/crypto/aesni-intel_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file arch/x86/crypto/aesni-intel_glue.c.rej
+patching file arch/x86/crypto/camellia_aesni_avx2_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/crypto/camellia_aesni_avx2_glue.c.rej
+patching file arch/x86/crypto/camellia_aesni_avx_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/crypto/camellia_aesni_avx_glue.c.rej
+patching file arch/x86/crypto/cast5_avx_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+7 out of 7 hunks ignored -- saving rejects to file arch/x86/crypto/cast5_avx_glue.c.rej
+patching file arch/x86/crypto/cast6_avx_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/crypto/cast6_avx_glue.c.rej
+patching file arch/x86/crypto/chacha20_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/crypto/chacha20_glue.c.rej
+patching file arch/x86/crypto/glue_helper.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file arch/x86/crypto/glue_helper.c.rej
+patching file arch/x86/crypto/serpent_avx2_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/crypto/serpent_avx2_glue.c.rej
+patching file arch/x86/crypto/serpent_avx_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/crypto/serpent_avx_glue.c.rej
+patching file arch/x86/crypto/serpent_sse2_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/crypto/serpent_sse2_glue.c.rej
+patching file arch/x86/crypto/twofish_avx_glue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/crypto/twofish_avx_glue.c.rej
+patching file arch/x86/entry/common.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/entry/common.c.rej
+patching file arch/x86/entry/entry_32.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/entry/entry_32.S.rej
+patching file arch/x86/entry/entry_64.S
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/entry/entry_64.S.rej
+patching file arch/x86/include/asm/fpu/api.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/include/asm/fpu/api.h.rej
+patching file arch/x86/include/asm/preempt.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/include/asm/preempt.h.rej
+patching file arch/x86/include/asm/signal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/include/asm/signal.h.rej
+patching file arch/x86/include/asm/stackprotector.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/include/asm/stackprotector.h.rej
+patching file arch/x86/include/asm/thread_info.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file arch/x86/include/asm/thread_info.h.rej
+patching file arch/x86/kernel/apic/io_apic.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/x86/kernel/apic/io_apic.c.rej
+patching file arch/x86/kernel/asm-offsets.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/kernel/asm-offsets.c.rej
+patching file arch/x86/kernel/cpu/mcheck/dev-mcelog.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/kernel/cpu/mcheck/dev-mcelog.c.rej
+patching file arch/x86/kernel/cpu/mcheck/mce.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file arch/x86/kernel/cpu/mcheck/mce.c.rej
+patching file arch/x86/kernel/fpu/core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/kernel/fpu/core.c.rej
+patching file arch/x86/kernel/irq_32.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file arch/x86/kernel/irq_32.c.rej
+patching file arch/x86/kernel/process_32.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/kernel/process_32.c.rej
+patching file arch/x86/kvm/lapic.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/kvm/lapic.c.rej
+patching file arch/x86/kvm/x86.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/x86/kvm/x86.c.rej
+patching file arch/x86/mm/highmem_32.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file arch/x86/mm/highmem_32.c.rej
+patching file arch/x86/mm/iomap_32.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file arch/x86/mm/iomap_32.c.rej
+patching file arch/xtensa/include/asm/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file arch/xtensa/include/asm/spinlock_types.h.rej
+patching file block/blk-core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file block/blk-core.c.rej
+patching file block/blk-ioc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file block/blk-ioc.c.rej
+patching file block/blk-mq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file block/blk-mq.c.rej
+patching file block/blk-mq.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file block/blk-mq.h.rej
+patching file block/blk-softirq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file block/blk-softirq.c.rej
+patching file block/bounce.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file block/bounce.c.rej
+patching file crypto/algapi.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file crypto/algapi.c.rej
+patching file crypto/api.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file crypto/api.c.rej
+patching file crypto/cryptd.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file crypto/cryptd.c.rej
+patching file crypto/internal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file crypto/internal.h.rej
+patching file crypto/scompress.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file crypto/scompress.c.rej
+patching file drivers/acpi/acpica/acglobal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/acpi/acpica/acglobal.h.rej
+patching file drivers/acpi/acpica/hwregs.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/acpi/acpica/hwregs.c.rej
+patching file drivers/acpi/acpica/hwxface.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/acpi/acpica/hwxface.c.rej
+patching file drivers/acpi/acpica/utmutex.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/acpi/acpica/utmutex.c.rej
+patching file drivers/ata/libata-sff.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/ata/libata-sff.c.rej
+patching file drivers/base/power/wakeup.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file drivers/base/power/wakeup.c.rej
+patching file drivers/block/brd.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/block/brd.c.rej
+patching file drivers/block/zram/zcomp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/block/zram/zcomp.c.rej
+patching file drivers/block/zram/zcomp.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/block/zram/zcomp.h.rej
+patching file drivers/block/zram/zram_drv.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file drivers/block/zram/zram_drv.c.rej
+patching file drivers/block/zram/zram_drv.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/block/zram/zram_drv.h.rej
+patching file drivers/char/random.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+11 out of 11 hunks ignored -- saving rejects to file drivers/char/random.c.rej
+patching file drivers/char/tpm/tpm_tis.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/char/tpm/tpm_tis.c.rej
+patching file drivers/clocksource/tcb_clksrc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+11 out of 11 hunks ignored -- saving rejects to file drivers/clocksource/tcb_clksrc.c.rej
+patching file drivers/clocksource/timer-atmel-pit.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/clocksource/timer-atmel-pit.c.rej
+patching file drivers/clocksource/timer-atmel-st.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file drivers/clocksource/timer-atmel-st.c.rej
+patching file drivers/connector/cn_proc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/connector/cn_proc.c.rej
+patching file drivers/cpufreq/Kconfig.x86
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/cpufreq/Kconfig.x86.rej
+patching file drivers/firmware/efi/efi.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/firmware/efi/efi.c.rej
+patching file drivers/gpu/drm/i915/i915_gem_timeline.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/gpu/drm/i915/i915_gem_timeline.c.rej
+patching file drivers/gpu/drm/i915/i915_irq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/gpu/drm/i915/i915_irq.c.rej
+patching file drivers/gpu/drm/i915/intel_sprite.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file drivers/gpu/drm/i915/intel_sprite.c.rej
+patching file drivers/gpu/drm/radeon/radeon_display.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/gpu/drm/radeon/radeon_display.c.rej
+patching file drivers/hv/hyperv_vmbus.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/hv/hyperv_vmbus.h.rej
+patching file drivers/hv/vmbus_drv.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/hv/vmbus_drv.c.rej
+patching file drivers/ide/alim15x3.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/ide/alim15x3.c.rej
+patching file drivers/ide/hpt366.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/ide/hpt366.c.rej
+patching file drivers/ide/ide-io-std.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file drivers/ide/ide-io-std.c.rej
+patching file drivers/ide/ide-io.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/ide/ide-io.c.rej
+patching file drivers/ide/ide-iops.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/ide/ide-iops.c.rej
+patching file drivers/ide/ide-probe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/ide/ide-probe.c.rej
+patching file drivers/ide/ide-taskfile.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/ide/ide-taskfile.c.rej
+patching file drivers/infiniband/hw/hfi1/affinity.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/infiniband/hw/hfi1/affinity.c.rej
+patching file drivers/infiniband/hw/hfi1/sdma.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/infiniband/hw/hfi1/sdma.c.rej
+patching file drivers/infiniband/hw/qib/qib_file_ops.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/infiniband/hw/qib/qib_file_ops.c.rej
+patching file drivers/infiniband/ulp/ipoib/ipoib_multicast.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/infiniband/ulp/ipoib/ipoib_multicast.c.rej
+patching file drivers/input/gameport/gameport.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/input/gameport/gameport.c.rej
+patching file drivers/iommu/amd_iommu.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+26 out of 26 hunks ignored -- saving rejects to file drivers/iommu/amd_iommu.c.rej
+patching file drivers/iommu/amd_iommu_init.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/iommu/amd_iommu_init.c.rej
+patching file drivers/iommu/amd_iommu_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/iommu/amd_iommu_types.h.rej
+patching file drivers/iommu/iova.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/iommu/iova.c.rej
+patching file drivers/irqchip/irq-gic-v3-its.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file drivers/irqchip/irq-gic-v3-its.c.rej
+patching file drivers/leds/trigger/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/leds/trigger/Kconfig.rej
+patching file drivers/md/bcache/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/md/bcache/Kconfig.rej
+patching file drivers/md/dm-rq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/md/dm-rq.c.rej
+patching file drivers/md/raid5.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file drivers/md/raid5.c.rej
+patching file drivers/md/raid5.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/md/raid5.h.rej
+patching file drivers/mfd/atmel-smc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/mfd/atmel-smc.c.rej
+patching file drivers/misc/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file drivers/misc/Kconfig.rej
+patching file drivers/mmc/host/mmci.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/mmc/host/mmci.c.rej
+patching file drivers/net/ethernet/3com/3c59x.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/net/ethernet/3com/3c59x.c.rej
+patching file drivers/net/ethernet/marvell/mvpp2.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file drivers/net/ethernet/marvell/mvpp2.c.rej
+patching file drivers/net/wireless/intersil/orinoco/orinoco_usb.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/net/wireless/intersil/orinoco/orinoco_usb.c.rej
+patching file drivers/net/wireless/mac80211_hwsim.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file drivers/net/wireless/mac80211_hwsim.c.rej
+patching file drivers/pci/switch/switchtec.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+8 out of 8 hunks ignored -- saving rejects to file drivers/pci/switch/switchtec.c.rej
+patching file drivers/scsi/fcoe/fcoe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file drivers/scsi/fcoe/fcoe.c.rej
+patching file drivers/scsi/fcoe/fcoe_ctlr.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/scsi/fcoe/fcoe_ctlr.c.rej
+patching file drivers/scsi/libfc/fc_exch.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/scsi/libfc/fc_exch.c.rej
+patching file drivers/scsi/libsas/sas_ata.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/scsi/libsas/sas_ata.c.rej
+patching file drivers/scsi/qla2xxx/qla_inline.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/scsi/qla2xxx/qla_inline.h.rej
+patching file drivers/staging/greybus/audio_manager.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/staging/greybus/audio_manager.c.rej
+patching file drivers/target/target_core_tmr.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/target/target_core_tmr.c.rej
+patching file drivers/target/target_core_transport.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/target/target_core_transport.c.rej
+patching file drivers/thermal/x86_pkg_temp_thermal.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file drivers/thermal/x86_pkg_temp_thermal.c.rej
+patching file drivers/tty/serial/8250/8250_core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/tty/serial/8250/8250_core.c.rej
+patching file drivers/tty/serial/8250/8250_port.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/tty/serial/8250/8250_port.c.rej
+patching file drivers/tty/serial/amba-pl011.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/tty/serial/amba-pl011.c.rej
+patching file drivers/tty/serial/omap-serial.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/tty/serial/omap-serial.c.rej
+patching file drivers/usb/core/hcd.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/usb/core/hcd.c.rej
+patching file drivers/usb/gadget/function/f_fs.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file drivers/usb/gadget/function/f_fs.c.rej
+patching file drivers/usb/gadget/function/f_ncm.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file drivers/usb/gadget/function/f_ncm.c.rej
+patching file drivers/usb/gadget/legacy/inode.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file drivers/usb/gadget/legacy/inode.c.rej
+patching file fs/aio.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file fs/aio.c.rej
+patching file fs/autofs4/autofs_i.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/autofs4/autofs_i.h.rej
+patching file fs/autofs4/expire.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/autofs4/expire.c.rej
+patching file fs/buffer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file fs/buffer.c.rej
+patching file fs/cifs/readdir.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/cifs/readdir.c.rej
+patching file fs/dcache.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+12 out of 12 hunks ignored -- saving rejects to file fs/dcache.c.rej
+patching file fs/eventpoll.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/eventpoll.c.rej
+patching file fs/exec.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/exec.c.rej
+patching file fs/ext4/page-io.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file fs/ext4/page-io.c.rej
+patching file fs/fuse/dir.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/fuse/dir.c.rej
+patching file fs/inode.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/inode.c.rej
+patching file fs/libfs.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file fs/libfs.c.rej
+patching file fs/locks.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file fs/locks.c.rej
+patching file fs/namei.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file fs/namei.c.rej
+patching file fs/namespace.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file fs/namespace.c.rej
+patching file fs/nfs/delegation.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/nfs/delegation.c.rej
+patching file fs/nfs/dir.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file fs/nfs/dir.c.rej
+patching file fs/nfs/inode.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/nfs/inode.c.rej
+patching file fs/nfs/nfs4_fs.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/nfs/nfs4_fs.h.rej
+patching file fs/nfs/nfs4proc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file fs/nfs/nfs4proc.c.rej
+patching file fs/nfs/nfs4state.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file fs/nfs/nfs4state.c.rej
+patching file fs/nfs/unlink.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file fs/nfs/unlink.c.rej
+patching file fs/ntfs/aops.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file fs/ntfs/aops.c.rej
+patching file fs/proc/array.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/proc/array.c.rej
+patching file fs/proc/base.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/proc/base.c.rej
+patching file fs/proc/proc_sysctl.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/proc/proc_sysctl.c.rej
+patching file fs/squashfs/decompressor_multi_percpu.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file fs/squashfs/decompressor_multi_percpu.c.rej
+patching file fs/timerfd.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file fs/timerfd.c.rej
+patching file fs/xfs/xfs_aops.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file fs/xfs/xfs_aops.c.rej
+patching file include/acpi/platform/aclinux.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/acpi/platform/aclinux.h.rej
+patching file include/asm-generic/bug.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/asm-generic/bug.h.rej
+patching file include/linux/blk-mq.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/blk-mq.h.rej
+patching file include/linux/blkdev.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/blkdev.h.rej
+patching file include/linux/bottom_half.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/bottom_half.h.rej
+patching file include/linux/buffer_head.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/buffer_head.h.rej
+patching file include/linux/cgroup-defs.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/cgroup-defs.h.rej
+patching file include/linux/completion.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/completion.h.rej
+patching file include/linux/cpu.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/cpu.h.rej
+patching file include/linux/dcache.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/dcache.h.rej
+patching file include/linux/delay.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/delay.h.rej
+patching file include/linux/fs.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/fs.h.rej
+patching file include/linux/highmem.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/highmem.h.rej
+patching file include/linux/hrtimer.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file include/linux/hrtimer.h.rej
+patching file include/linux/idr.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/idr.h.rej
+patching file include/linux/init_task.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/init_task.h.rej
+patching file include/linux/interrupt.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+12 out of 12 hunks ignored -- saving rejects to file include/linux/interrupt.h.rej
+patching file include/linux/irq.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/irq.h.rej
+patching file include/linux/irq_work.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/irq_work.h.rej
+patching file include/linux/irqchip/arm-gic-v3.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/irqchip/arm-gic-v3.h.rej
+patching file include/linux/irqdesc.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/irqdesc.h.rej
+patching file include/linux/irqflags.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/irqflags.h.rej
+patching file include/linux/jbd2.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/jbd2.h.rej
+patching file include/linux/kdb.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/kdb.h.rej
+patching file include/linux/kernel.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/kernel.h.rej
+patching file include/linux/list_bl.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/list_bl.h.rej
+The next patch would create the file include/linux/locallock.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/mm_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/mm_types.h.rej
+patching file include/linux/mutex.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/mutex.h.rej
+The next patch would create the file include/linux/mutex_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/netdevice.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file include/linux/netdevice.h.rej
+patching file include/linux/netfilter/x_tables.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/netfilter/x_tables.h.rej
+patching file include/linux/nfs_fs.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/nfs_fs.h.rej
+patching file include/linux/nfs_xdr.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/nfs_xdr.h.rej
+patching file include/linux/notifier.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file include/linux/notifier.h.rej
+patching file include/linux/percpu-rwsem.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/percpu-rwsem.h.rej
+patching file include/linux/percpu.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/percpu.h.rej
+patching file include/linux/pid.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/pid.h.rej
+patching file include/linux/posix-timers.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/posix-timers.h.rej
+patching file include/linux/preempt.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file include/linux/preempt.h.rej
+patching file include/linux/printk.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/printk.h.rej
+patching file include/linux/radix-tree.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/radix-tree.h.rej
+patching file include/linux/random.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/random.h.rej
+patching file include/linux/rbtree.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/rbtree.h.rej
+patching file include/linux/rbtree_augmented.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/rbtree_augmented.h.rej
+patching file include/linux/rbtree_latch.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/rbtree_latch.h.rej
+The next patch would create the file include/linux/rcu_assign_pointer.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/rcupdate.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+8 out of 8 hunks ignored -- saving rejects to file include/linux/rcupdate.h.rej
+patching file include/linux/rcutree.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/rcutree.h.rej
+patching file include/linux/ring_buffer.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/ring_buffer.h.rej
+patching file include/linux/rtmutex.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file include/linux/rtmutex.h.rej
+The next patch would create the file include/linux/rwlock_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/rwlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/rwlock_types.h.rej
+The next patch would create the file include/linux/rwlock_types_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/rwsem.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/rwsem.h.rej
+The next patch would create the file include/linux/rwsem_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/sched.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+17 out of 17 hunks ignored -- saving rejects to file include/linux/sched.h.rej
+patching file include/linux/sched/mm.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/sched/mm.h.rej
+patching file include/linux/sched/task.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/sched/task.h.rej
+patching file include/linux/sched/wake_q.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/sched/wake_q.h.rej
+patching file include/linux/seqlock.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file include/linux/seqlock.h.rej
+patching file include/linux/signal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/signal.h.rej
+patching file include/linux/skbuff.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/skbuff.h.rej
+patching file include/linux/smp.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/smp.h.rej
+patching file include/linux/spinlock.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/spinlock.h.rej
+patching file include/linux/spinlock_api_smp.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/spinlock_api_smp.h.rej
+The next patch would create the file include/linux/spinlock_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/spinlock_types.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/spinlock_types.h.rej
+The next patch would create the file include/linux/spinlock_types_nort.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file include/linux/spinlock_types_raw.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file include/linux/spinlock_types_rt.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/spinlock_types_up.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/spinlock_types_up.h.rej
+patching file include/linux/srcutiny.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/srcutiny.h.rej
+patching file include/linux/srcutree.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file include/linux/srcutree.h.rej
+patching file include/linux/suspend.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/suspend.h.rej
+patching file include/linux/swait.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/swait.h.rej
+patching file include/linux/swap.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/swap.h.rej
+The next patch would create the file include/linux/swork.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/linux/thread_info.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/thread_info.h.rej
+patching file include/linux/timer.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/linux/timer.h.rej
+patching file include/linux/trace_events.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/linux/trace_events.h.rej
+patching file include/linux/uaccess.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/uaccess.h.rej
+patching file include/linux/vmstat.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/vmstat.h.rej
+patching file include/linux/wait.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file include/linux/wait.h.rej
+patching file include/net/gen_stats.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/net/gen_stats.h.rej
+patching file include/net/neighbour.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/net/neighbour.h.rej
+The next patch would create the file include/net/net_seq_lock.h,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file include/net/sch_generic.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file include/net/sch_generic.h.rej
+patching file include/net/xfrm.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file include/net/xfrm.h.rej
+patching file include/trace/events/timer.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file include/trace/events/timer.h.rej
+patching file init/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file init/Kconfig.rej
+patching file init/Makefile
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file init/Makefile.rej
+patching file init/main.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file init/main.c.rej
+patching file kernel/Kconfig.locks
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/Kconfig.locks.rej
+patching file kernel/Kconfig.preempt
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/Kconfig.preempt.rej
+patching file kernel/cgroup/cgroup.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/cgroup/cgroup.c.rej
+patching file kernel/cgroup/cpuset.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+19 out of 19 hunks ignored -- saving rejects to file kernel/cgroup/cpuset.c.rej
+patching file kernel/cpu.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file kernel/cpu.c.rej
+patching file kernel/debug/kdb/kdb_io.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/debug/kdb/kdb_io.c.rej
+patching file kernel/events/core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/events/core.c.rej
+patching file kernel/exit.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/exit.c.rej
+patching file kernel/fork.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+8 out of 8 hunks ignored -- saving rejects to file kernel/fork.c.rej
+patching file kernel/futex.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+16 out of 16 hunks ignored -- saving rejects to file kernel/futex.c.rej
+patching file kernel/irq/handle.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/irq/handle.c.rej
+patching file kernel/irq/manage.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file kernel/irq/manage.c.rej
+patching file kernel/irq/settings.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/irq/settings.h.rej
+patching file kernel/irq/spurious.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/irq/spurious.c.rej
+patching file kernel/irq_work.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file kernel/irq_work.c.rej
+patching file kernel/ksysfs.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/ksysfs.c.rej
+patching file kernel/locking/Makefile
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/locking/Makefile.rej
+patching file kernel/locking/lockdep.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/locking/lockdep.c.rej
+patching file kernel/locking/locktorture.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/locking/locktorture.c.rej
+The next patch would create the file kernel/locking/mutex-rt.c,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file kernel/locking/rtmutex.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+46 out of 46 hunks ignored -- saving rejects to file kernel/locking/rtmutex.c.rej
+patching file kernel/locking/rtmutex_common.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file kernel/locking/rtmutex_common.h.rej
+The next patch would create the file kernel/locking/rwlock-rt.c,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file kernel/locking/rwsem-rt.c,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file kernel/locking/spinlock.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/locking/spinlock.c.rej
+patching file kernel/locking/spinlock_debug.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file kernel/locking/spinlock_debug.c.rej
+patching file kernel/panic.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/panic.c.rej
+patching file kernel/power/hibernate.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file kernel/power/hibernate.c.rej
+patching file kernel/power/suspend.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file kernel/power/suspend.c.rej
+patching file kernel/printk/printk.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+11 out of 11 hunks ignored -- saving rejects to file kernel/printk/printk.c.rej
+patching file kernel/printk/printk_safe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/printk/printk_safe.c.rej
+patching file kernel/ptrace.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/ptrace.c.rej
+patching file kernel/rcu/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/rcu/Kconfig.rej
+patching file kernel/rcu/rcu.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/rcu/rcu.h.rej
+patching file kernel/rcu/rcu_segcblist.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/rcu/rcu_segcblist.c.rej
+patching file kernel/rcu/rcutorture.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/rcu/rcutorture.c.rej
+patching file kernel/rcu/srcutree.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+31 out of 31 hunks ignored -- saving rejects to file kernel/rcu/srcutree.c.rej
+patching file kernel/rcu/tree.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+21 out of 21 hunks ignored -- saving rejects to file kernel/rcu/tree.c.rej
+patching file kernel/rcu/tree.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/rcu/tree.h.rej
+patching file kernel/rcu/tree_plugin.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file kernel/rcu/tree_plugin.h.rej
+patching file kernel/rcu/update.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/rcu/update.c.rej
+patching file kernel/sched/Makefile
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/Makefile.rej
+patching file kernel/sched/completion.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+7 out of 7 hunks ignored -- saving rejects to file kernel/sched/completion.c.rej
+patching file kernel/sched/core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+50 out of 50 hunks ignored -- saving rejects to file kernel/sched/core.c.rej
+patching file kernel/sched/cpudeadline.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/cpudeadline.c.rej
+patching file kernel/sched/cpupri.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/cpupri.c.rej
+patching file kernel/sched/deadline.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file kernel/sched/deadline.c.rej
+patching file kernel/sched/debug.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/debug.c.rej
+patching file kernel/sched/fair.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+22 out of 22 hunks ignored -- saving rejects to file kernel/sched/fair.c.rej
+patching file kernel/sched/features.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/features.h.rej
+patching file kernel/sched/rt.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/sched/rt.c.rej
+patching file kernel/sched/sched.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/sched/sched.h.rej
+patching file kernel/sched/swait.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/sched/swait.c.rej
+The next patch would create the file kernel/sched/swork.c,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file kernel/sched/topology.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/sched/topology.c.rej
+patching file kernel/signal.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file kernel/signal.c.rej
+patching file kernel/softirq.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+20 out of 20 hunks ignored -- saving rejects to file kernel/softirq.c.rej
+patching file kernel/stop_machine.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/stop_machine.c.rej
+patching file kernel/time/alarmtimer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/alarmtimer.c.rej
+patching file kernel/time/hrtimer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+54 out of 54 hunks ignored -- saving rejects to file kernel/time/hrtimer.c.rej
+patching file kernel/time/itimer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/itimer.c.rej
+patching file kernel/time/jiffies.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/time/jiffies.c.rej
+patching file kernel/time/posix-cpu-timers.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+6 out of 6 hunks ignored -- saving rejects to file kernel/time/posix-cpu-timers.c.rej
+patching file kernel/time/posix-timers.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file kernel/time/posix-timers.c.rej
+patching file kernel/time/tick-broadcast-hrtimer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/tick-broadcast-hrtimer.c.rej
+patching file kernel/time/tick-common.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file kernel/time/tick-common.c.rej
+patching file kernel/time/tick-internal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/tick-internal.h.rej
+patching file kernel/time/tick-sched.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+8 out of 8 hunks ignored -- saving rejects to file kernel/time/tick-sched.c.rej
+patching file kernel/time/timekeeping.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/timekeeping.c.rej
+patching file kernel/time/timekeeping.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/time/timekeeping.h.rej
+patching file kernel/time/timer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file kernel/time/timer.c.rej
+patching file kernel/trace/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/trace/Kconfig.rej
+patching file kernel/trace/ring_buffer.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+23 out of 23 hunks ignored -- saving rejects to file kernel/trace/ring_buffer.c.rej
+patching file kernel/trace/trace.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+20 out of 20 hunks ignored -- saving rejects to file kernel/trace/trace.c.rej
+patching file kernel/trace/trace.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file kernel/trace/trace.h.rej
+patching file kernel/trace/trace_events.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file kernel/trace/trace_events.c.rej
+patching file kernel/trace/trace_events_hist.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+53 out of 53 hunks ignored -- saving rejects to file kernel/trace/trace_events_hist.c.rej
+patching file kernel/trace/trace_events_trigger.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+17 out of 17 hunks ignored -- saving rejects to file kernel/trace/trace_events_trigger.c.rej
+patching file kernel/trace/trace_hwlat.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/trace/trace_hwlat.c.rej
+patching file kernel/trace/trace_kprobe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file kernel/trace/trace_kprobe.c.rej
+patching file kernel/trace/trace_output.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/trace/trace_output.c.rej
+patching file kernel/trace/trace_probe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/trace/trace_probe.c.rej
+patching file kernel/trace/trace_probe.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/trace/trace_probe.h.rej
+patching file kernel/trace/trace_uprobe.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/trace/trace_uprobe.c.rej
+patching file kernel/trace/tracing_map.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+11 out of 11 hunks ignored -- saving rejects to file kernel/trace/tracing_map.c.rej
+patching file kernel/trace/tracing_map.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+7 out of 7 hunks ignored -- saving rejects to file kernel/trace/tracing_map.h.rej
+patching file kernel/user.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/user.c.rej
+patching file kernel/watchdog.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file kernel/watchdog.c.rej
+patching file kernel/watchdog_hld.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file kernel/watchdog_hld.c.rej
+patching file kernel/workqueue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+46 out of 46 hunks ignored -- saving rejects to file kernel/workqueue.c.rej
+patching file kernel/workqueue_internal.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file kernel/workqueue_internal.h.rej
+patching file lib/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file lib/Kconfig.rej
+patching file lib/Kconfig.debug
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file lib/Kconfig.debug.rej
+patching file lib/debugobjects.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file lib/debugobjects.c.rej
+patching file lib/irq_poll.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file lib/irq_poll.c.rej
+patching file lib/locking-selftest.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+13 out of 13 hunks ignored -- saving rejects to file lib/locking-selftest.c.rej
+patching file lib/percpu_ida.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file lib/percpu_ida.c.rej
+patching file lib/radix-tree.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+9 out of 9 hunks ignored -- saving rejects to file lib/radix-tree.c.rej
+patching file lib/scatterlist.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file lib/scatterlist.c.rej
+patching file lib/smp_processor_id.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file lib/smp_processor_id.c.rej
+patching file lib/timerqueue.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file lib/timerqueue.c.rej
+The next patch would create the file localversion-rt,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file mm/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file mm/Kconfig.rej
+patching file mm/backing-dev.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file mm/backing-dev.c.rej
+patching file mm/compaction.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file mm/compaction.c.rej
+patching file mm/filemap.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file mm/filemap.c.rej
+patching file mm/highmem.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file mm/highmem.c.rej
+patching file mm/memcontrol.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+11 out of 11 hunks ignored -- saving rejects to file mm/memcontrol.c.rej
+patching file mm/mmu_context.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file mm/mmu_context.c.rej
+patching file mm/page_alloc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+23 out of 23 hunks ignored -- saving rejects to file mm/page_alloc.c.rej
+patching file mm/slab.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file mm/slab.h.rej
+patching file mm/slub.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+42 out of 42 hunks ignored -- saving rejects to file mm/slub.c.rej
+patching file mm/swap.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+12 out of 12 hunks ignored -- saving rejects to file mm/swap.c.rej
+patching file mm/truncate.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file mm/truncate.c.rej
+patching file mm/vmalloc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file mm/vmalloc.c.rej
+patching file mm/vmstat.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+12 out of 12 hunks ignored -- saving rejects to file mm/vmstat.c.rej
+patching file mm/workingset.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+7 out of 7 hunks ignored -- saving rejects to file mm/workingset.c.rej
+patching file mm/zsmalloc.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file mm/zsmalloc.c.rej
+patching file net/9p/trans_xen.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/9p/trans_xen.c.rej
+patching file net/Kconfig
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/Kconfig.rej
+patching file net/bluetooth/hci_sock.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/bluetooth/hci_sock.c.rej
+patching file net/can/bcm.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+14 out of 14 hunks ignored -- saving rejects to file net/can/bcm.c.rej
+patching file net/core/dev.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+31 out of 31 hunks ignored -- saving rejects to file net/core/dev.c.rej
+patching file net/core/filter.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file net/core/filter.c.rej
+patching file net/core/gen_estimator.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/core/gen_estimator.c.rej
+patching file net/core/gen_stats.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/core/gen_stats.c.rej
+patching file net/core/pktgen.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file net/core/pktgen.c.rej
+patching file net/core/skbuff.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file net/core/skbuff.c.rej
+patching file net/core/sock.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/core/sock.c.rej
+patching file net/ipv4/icmp.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file net/ipv4/icmp.c.rej
+patching file net/ipv4/tcp_ipv4.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file net/ipv4/tcp_ipv4.c.rej
+patching file net/mac80211/rx.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/mac80211/rx.c.rej
+patching file net/netfilter/core.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file net/netfilter/core.c.rej
+patching file net/packet/af_packet.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/packet/af_packet.c.rej
+patching file net/rds/ib_rdma.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file net/rds/ib_rdma.c.rej
+patching file net/rxrpc/security.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/rxrpc/security.c.rej
+patching file net/sched/sch_api.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file net/sched/sch_api.c.rej
+patching file net/sched/sch_generic.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/sched/sch_generic.c.rej
+patching file net/sunrpc/svc_xprt.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file net/sunrpc/svc_xprt.c.rej
+patching file net/xfrm/xfrm_state.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+10 out of 10 hunks ignored -- saving rejects to file net/xfrm/xfrm_state.c.rej
+patching file samples/trace_events/trace-events-sample.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file samples/trace_events/trace-events-sample.c.rej
+patching file scripts/mkcompile_h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+2 out of 2 hunks ignored -- saving rejects to file scripts/mkcompile_h.rej
+patching file security/apparmor/include/path.h
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+3 out of 3 hunks ignored -- saving rejects to file security/apparmor/include/path.h.rej
+patching file security/apparmor/lsm.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file security/apparmor/lsm.c.rej
+patching file sound/core/pcm_native.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+4 out of 4 hunks ignored -- saving rejects to file sound/core/pcm_native.c.rej
+patching file sound/drivers/dummy.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file sound/drivers/dummy.c.rej
+patching file tools/testing/selftests/ftrace/test.d/functions
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file tools/testing/selftests/ftrace/test.d/functions.rej
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-extended-error-support.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-field-variable-support.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-inter-event-combined-hist.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-onmatch-action-hist.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-onmatch-onmax-action-hist.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-onmax-action-hist.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+The next patch would create the file tools/testing/selftests/ftrace/test.d/trigger/inter-event/trigger-synthetic-event-createremove.tc,
+which already exists!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+1 out of 1 hunk ignored
+patching file virt/kvm/arm/arm.c
+Reversed (or previously applied) patch detected!  Assume -R? [n] 
+Apply anyway? [n] 
+Skipping patch.
+5 out of 5 hunks ignored -- saving rejects to file virt/kvm/arm/arm.c.rej
