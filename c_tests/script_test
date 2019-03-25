@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in {1..20}
+do
+   ./sort_v1 &
+done
+
+time sudo cyclictest -p 90 -n -m -h 500 -t4 -l 300000 > 20_30_test.txt
